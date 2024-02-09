@@ -90,4 +90,8 @@ body {
 
   margin: auto;
 }
+.weather
+{
+  display: none;
+}
 
